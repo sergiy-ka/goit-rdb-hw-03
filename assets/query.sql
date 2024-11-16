@@ -1,3 +1,6 @@
+/*Домашнє завдання до Теми 3. Завантаження даних та основи SQL. DQL команди*/
+/*Schema name - `goit-rdb-hw-03`*/
+
 /*1*/
 select p.*
 from `goit-rdb-hw-03`.products p;
