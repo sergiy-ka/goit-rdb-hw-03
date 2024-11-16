@@ -2,4 +2,4 @@
 
 ## SQL команди
 
-![query](./assets/query.sql)
+[Query](./assets/query.sql)
